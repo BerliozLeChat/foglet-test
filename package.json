@@ -1,0 +1,25 @@
+{
+  "name": "foglet-test",
+  "version": "1.0.0",
+  "description": "An application using foglets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerliozLeChat/foglet-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerliozLeChat/foglet-test/issues"
+  },
+  "homepage": "https://github.com/BerliozLeChat/foglet-test#readme",
+  "dependencies": {
+    "foglet-core": "^3.1.1"
+  },
+  "devDependencies": {
+    "foglet-scripts": "^0.2.4"
+  }
+}
